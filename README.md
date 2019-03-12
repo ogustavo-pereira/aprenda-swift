@@ -29,12 +29,13 @@
 
 Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 :-- | :-- | :--: | :--: | :--:
-[Developing iOS 11 Apps with Swift](https://itunes.apple.com/br/course/developing-ios-11-apps-with-swift/id1309275316)|Stanford|:green_heart:|iOS|:free:
-[Curso Completo Desenvolvimento iOS 11 Swift 4](https://www.udemy.com/curso-completo-de-desenvolvimento-ios11swift4/)|Udemy|:green_heart:|iOS|:moneybag:
-[iOS: Testes de unidade e TDD](https://www.alura.com.br/curso-online-ios-tdd-e-testes-de-unidade)|Alura|:large_orange_diamond:|ViewCode|:moneybag:
 [Clean iOS Codebases](https://www.youtube.com/playlist?list=PLyjgjmI1UzlTtsImzQ4cT8bQ3_RXtkqLg)|YouTube|:red_circle:|Clean Code|:free:
 [Clean iOS Architecture](https://www.youtube.com/playlist?list=PLyjgjmI1UzlSWtjAMPOt03L7InkCRlGzb)|YouTube|:red_circle:|Arquitetura|:free:
+[Curso Completo Desenvolvimento iOS 11 Swift 4](https://www.udemy.com/curso-completo-de-desenvolvimento-ios11swift4/)|Udemy|:green_heart:|iOS|:moneybag:
 [Curso iOS - Módulo ViewCode](https://www.youtube.com/playlist?list=PLvwcQsuDybkU2mhuk2Axx0XP2APTK6wZx)|YouTube|:red_circle:|ViewCode|:free:
+[Developing iOS 11 Apps with Swift](https://itunes.apple.com/br/course/developing-ios-11-apps-with-swift/id1309275316)|Stanford|:green_heart:|iOS|:free:
+[iOS: Testes de unidade e TDD](https://www.alura.com.br/curso-online-ios-tdd-e-testes-de-unidade)|Alura|:large_orange_diamond:|ViewCode|:moneybag:
+
 
 [Ir para o índice](#Índice)
 
@@ -42,8 +43,9 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 
 Título | Assunto | Formato | Preço | Idioma
 :-- | :--: | :--: | :--: | :--:
-[Language Guide - The Swift Book](https://swift.org/)|Guia|Web|:free:|Inglês
 [iOS® Developer Notes for Professionals](https://books.goalkicker.com/iOSBook/)|Dicas e truques|PDF|:free:|Inglês
+[Language Guide - The Swift Book](https://swift.org/)|Guia|Web|:free:|Inglês
+
 
 
 [Ir para o índice](#Índice)
@@ -52,12 +54,12 @@ Título | Assunto | Formato | Preço | Idioma
 
 Blog | Principal(is) Autor(es) | Idioma
 :-- | :-- | :--:
-[Shai Mishali – Medium](https://medium.com/@freak4pc)|Shai Mishali|Inglês
 [Cocoa Academy – Medium](https://medium.com/cocoaacademymag)|Cocoa Academy|Inglês
 [kristina.io](https://kristina.io/)|Kristina Fox|Inglês
-[Natasha The Robot](https://www.natashatherobot.com/)|Natasha The Robot|Inglês
 [Movile Tech - De Tech para Tech](https://movile.blog/categoria/ios/)|Movile Tech|Português
+[Natasha The Robot](https://www.natashatherobot.com/)|Natasha The Robot|Inglês
 [Rambo.codes](https://rambo.codes/)|Gui Rambo|Inglês
+[Shai Mishali – Medium](https://medium.com/@freak4pc)|Shai Mishali|Inglês
 [YASB - A blog about Swift development](http://www.vadimbulavin.com/)|Vadim Bulavin|Inglês
 
 [Ir para o índice](#Índice)
@@ -67,8 +69,8 @@ Blog | Principal(is) Autor(es) | Idioma
 Título | Evento | Assuntos
 :-- | :-- | :--
 [5 coisas que toda pessoa desenvolvedora iOS deveria saber](https://www.youtube.com/watch?v=Ckue3xh0gyE)|MobileSummit 2017|Conceitos de Swift
-[Como arquitetar seu app usando ReSwift](https://www.youtube.com/watch?v=L4IRCZTNfpo&t=0s&list=PLVfcRkAE6V2y3vrz7vFfHMtFO8NiIcXR4)|Talk da Concrete|ReSwift
 [Arquitetura Evolutiva](https://www.youtube.com/watch?v=uCTws4JajnE&t=0s)|Talk da Concrete|Arquitetura
+[Como arquitetar seu app usando ReSwift](https://www.youtube.com/watch?v=L4IRCZTNfpo&t=0s&list=PLVfcRkAE6V2y3vrz7vFfHMtFO8NiIcXR4)|Talk da Concrete|ReSwift
 
 [Ir para o índice](#Índice)
 
@@ -93,8 +95,8 @@ Nome da Comunidade | Tipo | Idioma
 ## :paperclip: Feeds
 Nome do Feed | Idioma
 :-- | :--:
-[iOS Goodies](https://ios-goodies.com/)|Inglês
 [AwesomeiOS Weekly](http://weekly.awesomeios.com/)|Inglês
+[iOS Goodies](https://ios-goodies.com/)|Inglês
 [Swift by Sundell Newsletter](https://www.swiftbysundell.com/newsletter/)|Inglês
 [Swift Weekly](https://swiftweekly.com/)|Inglês
 
@@ -104,12 +106,21 @@ Nome do Feed | Idioma
 ## :sound: Podcasts
 Nome do Podcast | Idioma
 :-- | :--:
+[CocoaHeads Brasil](https://soundcloud.com/cocoaheadsbr)|Inglês
 [SwiftCoders](https://swiftcoders.podbean.com/)|Inglês
 [The iPhreaks Show](http://iphreaksshow.com/)|Inglês
-[CocoaHeads Brasil](https://soundcloud.com/cocoaheadsbr)|Inglês
+
 
 
 [Ir para o índice](#Índice)
+
+## Team
+
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/learnbr/wordpress/graphs/contributors).
+
+[![felipemendes](https://avatars2.githubusercontent.com/u/3712089?s=100&v=4)](https://github.com/felipemendes) |
+--- |
+[felipemendes](https://github.com/felipemendes) |
 
 
 <h6 align="center">
