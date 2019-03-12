@@ -116,7 +116,7 @@ Nome do Podcast | Idioma
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/learnbr/wordpress/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/learnbr/swift/graphs/contributors).
 
 [![felipemendes](https://avatars2.githubusercontent.com/u/3712089?s=100&v=4)](https://github.com/felipemendes) |
 --- |
