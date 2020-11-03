@@ -4,7 +4,7 @@
 
 <h1 align="center">Aprenda Swift</h1>
 
-<p align="center">Central de conhecimento sobre Swift.</p>
+<p align="center">Agrupamento de link's sobre Swift.</p>
 
 
 <a id="user-content-Índice" class="anchor" href="#Índice" aria-hidden="true"></a>
@@ -110,13 +110,12 @@ Nome do Podcast | Idioma
 [SwiftCoders](https://swiftcoders.podbean.com/)|Inglês
 [The iPhreaks Show](http://iphreaksshow.com/)|Inglês
 
-
-
 [Ir para o índice](#Índice)
 
-## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/learnbr/swift/graphs/contributors).
+## Time
+
+Este projeto é mantido pela(s) seguinte(s) pessoa(s):
 
 [![felipemendes](https://avatars2.githubusercontent.com/u/3712089?s=100&v=4)](https://github.com/felipemendes) |
 --- |
