@@ -117,9 +117,7 @@ Nome do Podcast | Idioma
 
 Este projeto é mantido pela(s) seguinte(s) pessoa(s):
 
-[![felipemendes](https://avatars2.githubusercontent.com/u/3712089?s=100&v=4)](https://github.com/felipemendes) |
---- |
-[felipemendes](https://github.com/felipemendes) |
+* [Felipe Mendes](https://github.com/felipemendes)
 
 
 <h6 align="center">
