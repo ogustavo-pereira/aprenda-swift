@@ -35,6 +35,9 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 [Curso iOS - Módulo ViewCode](https://www.youtube.com/playlist?list=PLvwcQsuDybkU2mhuk2Axx0XP2APTK6wZx)|YouTube|:red_circle:|ViewCode|:free:
 [Developing iOS 11 Apps with Swift](https://itunes.apple.com/br/course/developing-ios-11-apps-with-swift/id1309275316)|Stanford|:green_heart:|iOS|:free:
 [iOS: Testes de unidade e TDD](https://www.alura.com.br/curso-online-ios-tdd-e-testes-de-unidade)|Alura|:large_orange_diamond:|ViewCode|:moneybag:
+[Do Iniciante ao Avançado em Testes Unitários no iOS](https://www.udemy.com/course/do-iniciante-ao-avancado-em-testes-unitarios-no-ios/)|Udemy|:green_heart:|UnitTest|:moneybag:
+[Desenvolvendo para iOS no Xcode](https://www.alura.com.br/curso-online-swift-desenvolvimento-ios/)|Alura|:green_heart:|iOS|:moneybag:
+
 
 
 [Ir para o índice](#Índice)
@@ -99,6 +102,7 @@ Nome do Feed | Idioma
 [iOS Goodies](https://ios-goodies.com/)|Inglês
 [Swift by Sundell Newsletter](https://www.swiftbysundell.com/newsletter/)|Inglês
 [Swift Weekly](https://swiftweekly.com/)|Inglês
+[Raywenderlich](https://www.raywenderlich.com/ios)|Inglês
 
 
 [Ir para o índice](#Índice)
