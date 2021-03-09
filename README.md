@@ -21,11 +21,6 @@
 
 ## :mortar_board: Cursos
 
-**Legenda:**
-
-- :green_heart:: Básico
-- :large_orange_diamond:: Intermediário
-- :red_circle:: Avançado
 
 Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 :-- | :-- | :--: | :--: | :--:
