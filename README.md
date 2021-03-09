@@ -29,25 +29,24 @@
 
 Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 :-- | :-- | :--: | :--: | :--:
-[Clean iOS Codebases](https://www.youtube.com/playlist?list=PLyjgjmI1UzlTtsImzQ4cT8bQ3_RXtkqLg)|YouTube|:red_circle:|Clean Code|:free:
-[Clean iOS Architecture](https://www.youtube.com/playlist?list=PLyjgjmI1UzlSWtjAMPOt03L7InkCRlGzb)|YouTube|:red_circle:|Arquitetura|:free:
-[Curso Completo Desenvolvimento iOS 11 Swift 4](https://www.udemy.com/curso-completo-de-desenvolvimento-ios11swift4/)|Udemy|:green_heart:|iOS|:moneybag:
-[Curso iOS - Módulo ViewCode](https://www.youtube.com/playlist?list=PLvwcQsuDybkU2mhuk2Axx0XP2APTK6wZx)|YouTube|:red_circle:|ViewCode|:free:
-[Developing iOS 11 Apps with Swift](https://itunes.apple.com/br/course/developing-ios-11-apps-with-swift/id1309275316)|Stanford|:green_heart:|iOS|:free:
-[iOS: Testes de unidade e TDD](https://www.alura.com.br/curso-online-ios-tdd-e-testes-de-unidade)|Alura|:large_orange_diamond:|ViewCode|:moneybag:
-[Do Iniciante ao Avançado em Testes Unitários no iOS](https://www.udemy.com/course/do-iniciante-ao-avancado-em-testes-unitarios-no-ios/)|Udemy|:green_heart:|UnitTest|:moneybag:
-[Desenvolvendo para iOS no Xcode](https://www.alura.com.br/curso-online-swift-desenvolvimento-ios/)|Alura|:green_heart:|iOS|:moneybag:
-
+[Developing iOS 11 Apps with Swift](https://itunes.apple.com/br/course/developing-ios-11-apps-with-swift/id1309275316)|Stanford| Básico |iOS| Gratuito
+[Clean iOS Codebases](https://www.youtube.com/playlist?list=PLyjgjmI1UzlTtsImzQ4cT8bQ3_RXtkqLg)|YouTube| Avançado |Clean Code| Gratuito
+[Clean iOS Architecture](https://www.youtube.com/playlist?list=PLyjgjmI1UzlSWtjAMPOt03L7InkCRlGzb)|YouTube| Avançado|Arquitetura| Gratuito
+[Curso iOS - Módulo ViewCode](https://www.youtube.com/playlist?list=PLvwcQsuDybkU2mhuk2Axx0XP2APTK6wZx)|YouTube| Avançado | ViewCode| Gratuito
+[Curso Completo Desenvolvimento iOS 11 Swift 4](https://www.udemy.com/curso-completo-de-desenvolvimento-ios11swift4/)|Udemy| Básico |iOS| Pago
+[Do Iniciante ao Avançado em Testes Unitários no iOS](https://www.udemy.com/course/do-iniciante-ao-avancado-em-testes-unitarios-no-ios/)|Udemy| Básico |UnitTest| Pago
+[Desenvolvendo para iOS no Xcode](https://www.alura.com.br/curso-online-swift-desenvolvimento-ios/)|Alura| Básico |iOS| Pago
+[iOS: Testes de unidade e TDD](https://www.alura.com.br/curso-online-ios-tdd-e-testes-de-unidade)|Alura| Intermediario |ViewCode| Pago
 
 
 [Ir para o índice](#Índice)
 
 ## :book: Livros
 
-Título | Assunto | Formato | Preço | Idioma
+Título | Assunto | Formato | Pago/Gratuito | Idioma
 :-- | :--: | :--: | :--: | :--:
 [iOS® Developer Notes for Professionals](https://books.goalkicker.com/iOSBook/)|Dicas e truques|PDF|:free:|Inglês
-[Language Guide - The Swift Book](https://swift.org/)|Guia|Web|:free:|Inglês
+[Language Guide - The Swift Book](https://swift.org/)|Guia|Web| Pago |Inglês
 
 
 
