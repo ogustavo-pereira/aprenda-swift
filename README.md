@@ -45,7 +45,7 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 
 Título | Assunto | Formato | Pago/Gratuito | Idioma
 :-- | :--: | :--: | :--: | :--:
-[iOS® Developer Notes for Professionals](https://books.goalkicker.com/iOSBook/)|Dicas e truques|PDF|:free:|Inglês
+[iOS® Developer Notes for Professionals](https://books.goalkicker.com/iOSBook/)|Dicas e truques|PDF| Gratuito |Inglês
 [Language Guide - The Swift Book](https://swift.org/)|Guia|Web| Pago |Inglês
 
 
@@ -121,6 +121,7 @@ Nome do Podcast | Idioma
 Este projeto é mantido pela(s) seguinte(s) pessoa(s):
 
 * [Felipe Mendes](https://github.com/felipemendes)
+* [Melissa Barbosa](https://github.com/mellbarbosa)
 
 
 <h6 align="center">
