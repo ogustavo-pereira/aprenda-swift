@@ -32,6 +32,7 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 [Do Iniciante ao Avançado em Testes Unitários no iOS](https://www.udemy.com/course/do-iniciante-ao-avancado-em-testes-unitarios-no-ios/)|Udemy| Básico |UnitTest| Pago
 [Desenvolvendo para iOS no Xcode](https://www.alura.com.br/curso-online-swift-desenvolvimento-ios/)|Alura| Básico |iOS| Pago
 [iOS: Testes de unidade e TDD](https://www.alura.com.br/curso-online-ios-tdd-e-testes-de-unidade)|Alura| Intermediario |ViewCode| Pago
+[iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/)|Udemy| Básico |iOS| Pago
 
 
 [Ir para o índice](#Índice)
