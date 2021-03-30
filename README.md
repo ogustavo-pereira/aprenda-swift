@@ -72,8 +72,6 @@ Título | Evento | Assuntos
 
 [Ir para o índice](#Índice)
 
-
-
 ## :circus_tent: Eventos Ativos
 
 Nome do Evento | Região Realizada
@@ -91,8 +89,9 @@ Nome da Comunidade | Tipo | Idioma
 [Ir para o índice](#Índice)
 
 ## :paperclip: Feeds
+
 Nome do Feed | Idioma
-:-- | :--:
+:-- | :--
 [AwesomeiOS Weekly](http://weekly.awesomeios.com/)|Inglês
 [iOS Goodies](https://ios-goodies.com/)|Inglês
 [Swift by Sundell Newsletter](https://www.swiftbysundell.com/newsletter/)|Inglês
@@ -103,8 +102,9 @@ Nome do Feed | Idioma
 [Ir para o índice](#Índice)
 
 ## :sound: Podcasts
+
 Nome do Podcast | Idioma
-:-- | :--:
+:-- | :--
 [CocoaHeads Brasil](https://soundcloud.com/cocoaheadsbr)|Inglês
 [SwiftCoders](https://swiftcoders.podbean.com/)|Inglês
 [The iPhreaks Show](http://iphreaksshow.com/)|Inglês
