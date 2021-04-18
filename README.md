@@ -59,6 +59,7 @@ Blog | Principal(is) Autor(es) | Idioma
 [Rambo.codes](https://rambo.codes/)|Gui Rambo|Inglês
 [Shai Mishali – Medium](https://medium.com/@freak4pc)|Shai Mishali|Inglês
 [YASB - A blog about Swift development](http://www.vadimbulavin.com/)|Vadim Bulavin|Inglês
+[Swift by Sundell](https://www.swiftbysundell.com/)|Swift by Sundell|Inglês
 
 [Ir para o índice](#Índice)
 
@@ -69,6 +70,8 @@ Título | Evento | Assuntos
 [5 coisas que toda pessoa desenvolvedora iOS deveria saber](https://www.youtube.com/watch?v=Ckue3xh0gyE)|MobileSummit 2017|Conceitos de Swift
 [Arquitetura Evolutiva](https://www.youtube.com/watch?v=uCTws4JajnE&t=0s)|Talk da Concrete|Arquitetura
 [Como arquitetar seu app usando ReSwift](https://www.youtube.com/watch?v=L4IRCZTNfpo&t=0s&list=PLVfcRkAE6V2y3vrz7vFfHMtFO8NiIcXR4)|Talk da Concrete|ReSwift
+[Advanced debugging with Xcode and LLDB](https://developer.apple.com/wwdc18/412)|Advanced debugging with Xcode and LLDB|Debug
+
 
 [Ir para o índice](#Índice)
 
@@ -85,6 +88,7 @@ Nome do Evento | Região Realizada
 Nome da Comunidade | Tipo | Idioma
 :-- | :-- | :--
 [iOS Dev BR](http://iosdevbr.herokuapp.com/)|Slack|Português
+[iOS Developers Internacional](https://ios-developers.io/)|Slack|Inglês
 
 [Ir para o índice](#Índice)
 
@@ -97,7 +101,7 @@ Nome do Feed | Idioma
 [Swift by Sundell Newsletter](https://www.swiftbysundell.com/newsletter/)|Inglês
 [Swift Weekly](https://swiftweekly.com/)|Inglês
 [Raywenderlich](https://www.raywenderlich.com/ios)|Inglês
-
+[iOS Dev Weekly](https://iosdevweekly.com/)|Inglês
 
 [Ir para o índice](#Índice)
 
@@ -108,6 +112,7 @@ Nome do Podcast | Idioma
 [CocoaHeads Brasil](https://soundcloud.com/cocoaheadsbr)|Inglês
 [SwiftCoders](https://swiftcoders.podbean.com/)|Inglês
 [The iPhreaks Show](http://iphreaksshow.com/)|Inglês
+[Swift by Sundell](https://www.swiftbysundell.com/podcast/)|Inglês
 
 [Ir para o índice](#Índice)
 
