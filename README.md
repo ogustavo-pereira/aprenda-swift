@@ -16,7 +16,7 @@
 	<a href="#eventos-ativos">Eventos ativos</a> •
 	<a href="#speech_balloon-comunidades">Comunidades</a> •
 	<a href="#paperclip-feeds">Feeds</a> •
-	<a href="#sound-podcasts">Podcasts</a> •
+	<a href="#sound-podcasts">Podcasts</a> 
 </p>
 
 ## :mortar_board: Cursos
@@ -115,18 +115,3 @@ Nome do Podcast | Idioma
 [Swift by Sundell](https://www.swiftbysundell.com/podcast/)|Inglês
 
 [Ir para o índice](#Índice)
-
-
-## Time
-
-Este projeto é mantido pela(s) seguinte(s) pessoa(s):
-
-* [Felipe Mendes](https://github.com/felipemendes)
-* [Melissa Barbosa](https://github.com/mellbarbosa)
-
-
-<h6 align="center">
-	<a href="./MIT.md">MIT</a>
-	©
-	Learn Br
-</h6>
